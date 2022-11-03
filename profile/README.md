@@ -31,5 +31,5 @@ resources in the proposed serverless-based FDN facilitates application developme
 
 ### FDN Architecture
 
-![FDN Architecture](fdn-archi.png)
+![FDN Architecture](profile/fdn-archi.png)
 
