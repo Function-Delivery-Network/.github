@@ -20,6 +20,7 @@ called **Function Delivery Network (FDN)** analogous to Content Delivery Network
 of compute nodes deployed in a specific region, either at the edge, in the Cloud, or on-premise. 
 - FDN provides seamless integration across the edge-cloud continuum by allowing the user to deploy and invoke the functions across heterogeneous serverless compute clusters in the continuum. 
 - FDN also distributes the data required by the functions across the edge-cloud continuum by allowing the users to organize their data objects into storage buckets.
+
 Based on these, FDN provides **Function-Delivery-as-a-Service (FDaaS)**, which can deliver user workload functions invocations to a subset of serverless compute clusters spread across the
 continuum based on :
 1) function-awareness 
