@@ -24,7 +24,8 @@ of compute nodes deployed in a specific region, either at the edge, in the Cloud
 Based on these, FDN provides **Function-Delivery-as-a-Service (FDaaS)**, which can deliver user workload functions invocations to a subset of serverless compute clusters spread across the
 continuum based on :
 1) function-awareness 
-2) data-awareness. 
+2) data-awareness
+
 The invocations are then load balanced across the selected subset of clusters based on the set load balancing algorithm. The automatic management of 
 resources in the proposed serverless-based FDN facilitates application development by shifting the burden to the cloud platform.
 
