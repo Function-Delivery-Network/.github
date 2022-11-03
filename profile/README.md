@@ -30,3 +30,6 @@ The invocations are then load balanced across the selected subset of clusters ba
 resources in the proposed serverless-based FDN facilitates application development by shifting the burden to the cloud platform.
 
 ### FDN Architecture
+
+![FDN Architecture](fdn-archi.png)
+
