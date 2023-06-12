@@ -34,4 +34,4 @@ resources in the proposed serverless-based FDN facilitates application developme
 ![FDN Architecture](profile/fdn-archi.png)
 
 ### FDN Demo Video
-<video src='https://youtu.be/1crMBONmygw' width=180/>
+[<img src="https://img.youtube.com/vi/1crMBONmygw/maxresdefault.jpg" width="50%">](https://youtu.be/1crMBONmygw)
